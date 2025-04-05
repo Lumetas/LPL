@@ -11,7 +11,7 @@ The Software is provided "as is", without warranty of any kind, express or impli
 
 Attribution Requirement for Source Code Distribution:
 
-If the Software is distributed in source code form (including modified, supplemented, or updated versions), the original copyright notice and the name of the original author (Lumetas) must be retained.
+If the Software is distributed in source code form (including modified, supplemented, or updated versions), the original copyright notice and the name of the original author must be retained.
 
 License Change Permitted:
 
